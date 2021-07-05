@@ -1,6 +1,8 @@
 # Frontend Mentor - Stats preview card component
+#### Mobile desing
 ![Mobile design](https://user-images.githubusercontent.com/80013958/124522479-c9e00980-ddc9-11eb-8b61-73ef9879aee6.jpg)
 
+#### Desktop desing
 ![Desktop design](https://user-images.githubusercontent.com/80013958/124522474-c482bf00-ddc9-11eb-8bb8-51e63c60c58a.jpg)
 
 
