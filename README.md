@@ -1,6 +1,7 @@
 # Frontend Mentor - Stats preview card component
+![Mobile design](https://user-images.githubusercontent.com/80013958/124522479-c9e00980-ddc9-11eb-8b61-73ef9879aee6.jpg)
 
-![Desktop desing]
+![Desktop design](https://user-images.githubusercontent.com/80013958/124522474-c482bf00-ddc9-11eb-8bb8-51e63c60c58a.jpg)
 
 
 
@@ -47,10 +48,12 @@ Remember, if you're looking for feedback on your solution, be sure to ask questi
 > - Responsive Desing (only: mobile)
 
 ####  Desktop solution: 
-![Desktop solution]
+![Desktop desing](https://user-images.githubusercontent.com/80013958/124522520-f3009a00-ddc9-11eb-88c9-83ccc0ef765c.png)
+
 
 #### Mobile Solution: 
-![Mobile solution]
+![Mobile Desing](https://user-images.githubusercontent.com/80013958/124522526-f7c54e00-ddc9-11eb-951b-06ca8d3bb62f.gif)
+
 
 ## Author
 - `Linkedin` [Linkedin](https://www.linkedin.com/in/leanquiroga95/)
