@@ -31,7 +31,7 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 
 > This project was implemented in:
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a942f27d-5952-440d-8306-f34b5ab3e415/deploy-status)](https://app.netlify.com/sites/hellomyhunddle/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a942f27d-5952-440d-8306-f34b5ab3e415/deploy-status)](https://hellomyhunddle.netlify.app/src/)
 
 ## Solution: 
 
